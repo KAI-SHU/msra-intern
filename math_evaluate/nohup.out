@@ -1,0 +1,822 @@
+lyc's answer: Let the amount of money Mark has be M and the amount of money John has be J. According to the problem, M + 1/2J = 75 and J + 1/3M = 75. We can rewrite the first equation as M = 75 - 1/2J. Now substitute this expression for M in the second equation: (75 - 1/2J) / 3 + J = 75. Simplify the equation: 25 - 1/6J + J = 75. Combine like terms: 5/6J = 50. Solve for J: J = 60. The answer is (b).
+lyc's answer: If one water lily doubles every two days, then after 60 days, there will be 2^(60/2) = 2^30 water lilies. If there were initially 64 water lilies, we need to find how many doublings it takes to reach 2^30. Since 64 = 2^6, we have 2^(6+x) = 2^30, where x is the number of doublings. This means x = 30 - 6 = 24. Since each doubling takes 2 days, it will take 24 * 2 = 48 days for the lake to be fully covered with lilies when there are initially 64 water lilies. The answer is not in the choices provided, so there might be an error in the question or the answer choices.
+lyc's answer: The total work done by x men working x hours per day for x days is x * x * x = x^3 units. Now, we need to find the equivalent work done by y men working y hours per day for y days. Let's call the amount of work completed by y men W.
+
+We can set up a proportion: (x^3) / (x * x * x) = W / (y * y * y)
+
+Simplifying the equation, we get: x^3 / x^3 = W / y^3
+
+Since x^3 / x^3 = 1, we have: 1 = W / y^3
+
+Now, solving for W, we get: W = y^3
+
+So, the amount of work completed by y men working y hours per day in y days is y^3 units. The answer is (e) None of these.
+lyc's answer: There are 6 points in total (A, B, C, D, E, and F). To find the number of different quadrilaterals that can be formed, we can use the combination formula: C(n, k) = n! / (k!(n-k)!), where n is the total number of points and k is the number of points to be chosen. In this case, n = 6 and k = 4.
+
+C(6, 4) = 6! / (4!(6-4)!) = 6! / (4!2!) = (6*5*4*3*2*1) / ((4*3*2*1)*(2*1)) = (6*5) / 2 = 15
+
+So, 15 different quadrilaterals can be formed by joining 4 of the points A, B, C, D, E, and F. The answer is (d) 15.
+lyc's answer: Since B bisects minor arc AC, minor arc AB is half of minor arc AC, which is 160° / 2 = 80°. To find the measure of minor arc AD, we can subtract the measure of minor arc BD from the sum of minor arcs AB and AC. So, minor arc AD = (80° + 160°) - 150° = 240° - 150° = 90°. However, this option is not available in the answer choices. There might be an error in the question or the answer choices provided.
+lyc's answer: Let's use the principle of inclusion-exclusion. We have:
+
+Total employees = Winter vacation + Summer vacation - (Winter and Summer vacation) + Neither vacation
+
+Let W = Winter vacation, S = Summer vacation, WS = Winter and Summer vacation, and N = Neither vacation.
+
+Since 75% take a winter vacation, W = 75%. 
+Since 40% take both winter and summer vacations, WS = 40%. 
+Since 20% take neither vacation, N = 20%.
+
+We want to find the percentage of employees who take a summer vacation but not a winter vacation, which is (S - WS).
+
+Now, we can rewrite the equation as:
+
+100% = 75% + S - 40% + 20%
+
+Solving for S, we get:
+
+S = 100% - 75% + 40% - 20% = 45%
+
+So, the percentage of employees who take a summer vacation but not a winter vacation is 45% - 40% = 5%. The answer is (a).
+lyc's answer: Let the depth of the canal be h meters. The area of a trapezium is given by the formula A = (1/2) * (sum of parallel sides) * height. In this case, A = 640, the sum of parallel sides is (10 + 6) = 16, and the height is h. So, 640 = (1/2) * 16 * h. Solving for h, we get h = 80. The answer is (d).
+lyc's answer: Let x be the total number of matches played. The team won 20 matches and lost 30% of their matches, so they won 70% of their matches. Therefore, 0.7x = 20. Solving for x, we get x = 20 / 0.7 = 28.57. Since the number of matches must be a whole number, we can round up to 29 total matches. The team lost 30% of 29 matches, which is 0.3 * 29 = 8.7. Since the number of matches lost must also be a whole number, we can round up to 9 matches lost. The answer is not in the given choices, so there might be an error in the question or the answer choices.
+lyc's answer: First, we need to find the number of revolutions the fan makes in 30 seconds. Since the fan runs at 300 revolutions per minute, it makes 300/2 = 150 revolutions in 30 seconds.
+
+The circumference of the circle traced by the point on the edge of the fan blade is 2 * pi * 10 = 20pi centimeters.
+
+The distance traveled by the point in 30 seconds is the product of the number of revolutions and the circumference of the circle: 150 * 20pi = 3000pi centimeters. The answer is (d).
+lyc's answer: Let's simplify the expression for x:
+
+x = (n^2 + 2√n(n + 4) + 16) / (n + 4√n + 4)
+
+We can rewrite the numerator as a perfect square:
+
+x = ((n + 4√n)^2) / (n + 4√n + 4)
+
+Now, we can cancel out the common term (n + 4√n) from the numerator and denominator:
+
+x = n + 4√n
+
+Now, we need to find the range of x when 36 ≤ n ≤ 72.
+
+For the lower bound, let n = 36:
+
+x = 36 + 4√(36) = 36 + 24 = 60
+
+For the upper bound, let n = 72:
+
+x = 72 + 4√(72) ≈ 72 + 33.94 ≈ 105.94
+
+So, the range of x is 60 < x < 105.94, which does not match any of the given answer choices. Therefore, the answer is (e) None of these.
+lyc's answer: The space shuttle's maximum speed is 700m in 40 seconds, so its speed is 700m / 40s = 17.5 m/s. Since it takes 5 seconds to pass a point, the length of the space shuttle is 17.5 m/s * 5s = 87.5 m. However, this value is not in the answer choices. The closest value is (b) 75 m, which might be an approximation or a rounding error in the problem.
+lyc's answer: Let the number of months after B joined the business when C joined be x. A's investment is for 12 months, B's investment is for (12 - 2) = 10 months, and C's investment is for (12 - 2 - x) = (10 - x) months.
+
+The profit ratio for A, B, and C is:
+A : B : C = 40000 * 12 : 60000 * 10 : 120000 * (10 - x)
+
+Since C's share is Rs.150,000 out of a total profit of Rs.375,000, the ratio of C's share to the total profit is 150000 / 375000 = 2 / 5.
+
+Now, we can set up the equation for C's share:
+C / (A + B + C) = 2 / 5
+120000 * (10 - x) / (40000 * 12 + 60000 * 10 + 120000 * (10 - x)) = 2 / 5
+
+Solving for x, we get x = 4. So, C joined the business 4 months after B joined. The answer is (b).
+lyc's answer: The area of the square paper is 20 cm * 20 cm = 400 cm². The diameter of each semi-circle is 20 cm, so the radius is 10 cm. The area of one semi-circle is (1/2)π(10 cm)² = 50π cm². Since there are two semi-circles, the total area of both is 100π cm². The area of the remaining paper is 400 cm² - 100π cm² ≈ 400 - 314.16 = 85.84 cm². However, none of the answer choices match this value. There might be an error in the answer choices provided.
+lyc's answer: The total distance covered is M + N miles, and the total time taken is 4 + 4 = 8 hours. The average speed is the total distance divided by the total time, so the average speed is (M + N) / 8. The answer is (a).
+lyc's answer: 8 men work for 6 days, so they complete the work in 8 * 6 = 48 man-days. To complete the work in 1/2 day, you would need 48 man-days / (1/2 day) = 96 men. The answer is (d).
+lyc's answer: Let x be the number of boys and girls who joined the group. The new ratio is (64+x) / (40+x) = 4/3. Cross-multiplying, we get 3(64+x) = 4(40+x). Simplifying, we get 192+3x = 160+4x. So x = 32. The total number of members now is 64+40+32+32 = 168. The answer is (e).
+lyc's answer: To find the time it takes to travel 48 miles at 12 miles per hour, you can use the formula time = distance / speed. So, time = 48 miles / 12 miles per hour = 4 hours. To convert hours to minutes, multiply by 60: 4 hours * 60 minutes per hour = 240 minutes. The answer is (b).
+lyc's answer: Let x be the time Kevin took to travel from A to B. Then, the time he took to travel from B to A is (x - 3) hours. The distance between A and B is the same in both directions.
+
+Using the formula distance = speed × time, we have:
+
+70x = 90(x - 3)
+
+Solving for x, we get:
+
+70x = 90x - 270
+20x = 270
+x = 13.5
+
+Now, we can find the distance between A and B:
+
+Distance = 70 × 13.5 = 945
+
+The answer is (e) None of the above.
+lyc's answer: Let the number be x. According to the problem, x - 30 = x/3. Solving for x, we get x = 45. Now, we need to find 50% of that number, which is 0.5 * 45 = 22.5. The answer is (a).
+lyc's answer: Let the rate of the current be x kmph. Then, the man's rate in still water is (4 - x) kmph. According to the problem, (4 - x) - x = 2. Solving for x, we get x = 1 kmph. Therefore, the man's rate along the current is (4 + x) = 4 + 1 = 5 kmph. However, this option is not available in the answer choices. There might be an error in the question or the answer choices.
+lyc's answer: Let the three-digit number be ABC, where A, B, and C are the digits. We have the following information:
+
+1. A + B + C = 17
+2. A^2 + B^2 + C^2 = 109
+3. 100A + 10B + C - 495 = 100C + 10B + A
+
+From equation 3, we can simplify it to 99A - 99C = 495, which means A - C = 5.
+
+Now we have three equations:
+
+A + B + C = 17
+A^2 + B^2 + C^2 = 109
+A - C = 5
+
+We can solve these equations simultaneously. From the first equation, we can express B as B = 17 - A - C. Now we can substitute this into the second equation:
+
+A^2 + (17 - A - C)^2 + C^2 = 109
+
+Expanding and simplifying, we get:
+
+2A^2 - 34A + 2C^2 + 34C = 190
+
+Now, we can substitute A - C = 5 into the equation:
+
+2(5 + C)^2 - 34(5 + C) + 2C^2 + 34C = 190
+
+Expanding and simplifying, we get:
+
+6C^2 - 10C - 100 = 0
+
+Dividing by 2, we get:
+
+3C^2 - 5C - 50 = 0
+
+Factoring, we get:
+
+(C - 5)(3C + 10) = 0
+
+The possible values for C are 5 and -10/3. Since C is a digit, it must be a positive integer, so C = 5. Now we can find A:
+
+A - C = 5
+A - 5 = 5
+A = 10
+
+However, A cannot be 10 as it is a single digit. This means there is no valid three-digit number that satisfies the given conditions. None of the answer choices are correct.
+lyc's answer: In alloy X, the ratio of zinc to copper is 6:9. So, in 40 grams of alloy X, there are (6/15)*40 = 16 grams of zinc and (9/15)*40 = 24 grams of copper.
+
+In alloy Y, the ratio of zinc to copper is 7:11. So, in 60 grams of alloy Y, there are (7/18)*60 = 20 grams of zinc and (11/18)*60 = 40 grams of copper.
+
+When alloy X and alloy Y are mixed to form alloy Z, the total amount of zinc is 16 + 20 = 36 grams, and the total amount of copper is 24 + 40 = 64 grams.
+
+So, the ratio of zinc to copper in alloy Z is 36:64, which simplifies to 9:16. However, this ratio is not among the answer choices. There might be a mistake in the question or the answer choices.
+lyc's answer: Hoopsmot contributed $16,000 and Smolapon contributed $4,000, making a total of $20,000. The ratio of their contributions is 16,000:4,000, which simplifies to 4:1. Since they influenced 30 senators, we can divide the 30 senators in the same ratio. Hoopsmot's share would be (4/5) * 30 = 24 senators. The answer is (d).
+lyc's answer: Let the two numbers be x and y. We are given that x^2 - y^2 = 256000 and x + y = 1000. We can rewrite the first equation as (x + y)(x - y) = 256000. Since x + y = 1000, we have 1000(x - y) = 256000. Dividing both sides by 1000, we get x - y = 256. Now we have a system of linear equations:
+
+x + y = 1000
+x - y = 256
+
+Adding the two equations, we get 2x = 1256, which means x = 628. Substituting x back into one of the equations, we find y = 372. The numbers are 628 and 372. The answer is (b).
+lyc's answer: To find the percentage, divide the weight on Venus by the weight on Earth and multiply by 100. So, (182 / 211) * 100 ≈ 86%. The answer is (d).
+lyc's answer: To find the average speed, we need to find the total distance traveled and divide it by the total time taken. 
+
+For the first part of the journey, the man walks at 5 kmph for 6 hrs, so he covers 5 * 6 = 30 km. 
+
+For the second part of the journey, he walks at 4 kmph for 12 hrs, so he covers 4 * 12 = 48 km. 
+
+The total distance traveled is 30 + 48 = 78 km. The total time taken is 6 + 12 = 18 hrs. 
+
+The average speed is 78 km / 18 hrs = 4 1/3 km/h. The answer is (a).
+lyc's answer: First, we need to solve the expressions inside the parentheses:
+(272 - 32) = 240
+(124 + 176) = 300
+
+Now, we can multiply these two results:
+240 * 300 = 72000
+
+Next, we need to solve the expression inside the second set of parentheses:
+(17 x 15) - 15 = 255 - 15 = 240
+
+Finally, we can divide the two results:
+72000 / 240 = 300
+
+The answer is (c) 300.
+lyc's answer: The median income is the middle value when the incomes are arranged in ascending order. Since the median income is $3000, there must be an odd number of family members to have a single middle value. Let's assume there are 3 family members (the smallest odd number greater than 1). If the total income is $9000, and the median income is $3000, then the incomes could be arranged as follows: $3000, $3000, $3000. In this case, there are 3 family members, and the total income is $9000. The answer is (b).
+lyc's answer: The bus fare for one adult is Rs. 140, so the fare for one child is half of that, which is Rs. 70. The total fare for 4 adults and 3 children would be (4 * 140) + (3 * 70) = 560 + 210 = Rs. 770. The answer is (e).
+lyc's answer: Let the number of employees be x. The total contribution from each employee is 600000 / x. If each employee contributes an extra Rs. 60, the total contribution becomes 624000 / x. So, 600000 / x + 60 = 624000 / x. This simplifies to 24000 = 60x, which means x = 400. The answer is (c).
+lyc's answer: First, find the number of eligible voters: 5000 * (1 - 0.20) = 5000 * 0.80 = 4000 voters.
+The winning candidate won by 15% of the votes, so he got 50% + 15% = 65% of the votes.
+Now, find the total number of votes the winning candidate got: 4000 * 0.65 = 2600 votes.
+The answer is not in the choices provided. However, the closest answer is (b) 2678.
+lyc's answer: Let x be the number of copper coins and y be the number of brass coins. We have the following equations:
+
+20x + 25y = 340 (since $3.40 is equal to 340 cents)
+x + y = total number of coins
+
+To minimize the number of copper coins, we need to maximize the number of brass coins. We can rewrite the first equation as:
+
+x = (340 - 25y) / 20
+
+Now, we need to find the largest integer value of y that satisfies this equation:
+
+y = 1: x = (340 - 25) / 20 = 15.75 (not an integer)
+y = 2: x = (340 - 50) / 20 = 14.5 (not an integer)
+y = 3: x = (340 - 75) / 20 = 13.25 (not an integer)
+y = 4: x = (340 - 100) / 20 = 12 (integer)
+
+So, the minimum number of copper coins is 12. The answer is (d).
+lyc's answer: In 10 seconds, Ram travels a distance of 20m/s * 10s = 200 meters. In the same 10 seconds, Krishna travels a distance of 40m/s * 10s = 400 meters. The total distance between A and B is the sum of the distances traveled by Ram and Krishna, which is 200m + 400m = 600 meters. The answer is (e).
+lyc's answer: The speed of car X is 320 km / 8 hrs = 40 km/hr. The speed of car Y is 415 km / 5 hrs = 83 km/hr. The difference in their speeds is 83 km/hr - 40 km/hr = 43 km/hr. The answer is (c) 43 km/hr.
+lyc's answer: Let the distance between Winson's home and school be x miles. The time taken to run to school is x/10 hours, and the time taken to walk home is x/5 hours. The total time taken is 1 hour, so x/10 + x/5 = 1. Solving for x, we get x = 10/3 miles. The answer is (d) 3 (rounded to the nearest whole number).
+lyc's answer: The store sold 80% of its inventory, which means it sold 0.8 * 600 = 480 golf balls. Since it sold an equal number of yellow and white golf balls, it sold 480 / 2 = 240 of each color. If all the white golf balls were sold, then the store initially had 240 yellow golf balls. The answer is (c).
+lyc's answer: Let the height of the building be x meters. Since the conditions are similar, we can set up a proportion:
+
+17.5 / 40.25 = x / 28.75
+
+Now, we can solve for x:
+
+x = (17.5 * 28.75) / 40.25
+x = 12.5
+
+The height of the building is 12.5 meters. The answer is (b).
+lyc's answer: The difference in speed between the two cars is 55 mph - 52 mph = 3 mph. To create a 15-mile gap between the two cars, it will take 15 miles / 3 mph = 5 hours. The answer is (b).
+lyc's answer: Since A and B are independent events, the probability that at least one of them occurs is given by P(A ∪ B) = P(A) + P(B) - P(A ∩ B). Since A and B are independent, P(A ∩ B) = P(A) * P(B). So, P(A ∪ B) = P(A) + P(B) - P(A) * P(B).
+
+We are given P(A ∪ B) = 0.96 and P(A) = 0.6. We need to find P(B).
+
+0.96 = 0.6 + P(B) - 0.6 * P(B)
+0.96 = 0.6 + P(B) * (1 - 0.6)
+0.96 = 0.6 + 0.4 * P(B)
+
+Now, solve for P(B):
+
+0.36 = 0.4 * P(B)
+P(B) = 0.36 / 0.4
+P(B) = 0.9
+
+The answer is (e) 0.9.
+lyc's answer: The sphere that fits inside the cube touches the cube at the center of each face. The diameter of the sphere is equal to the side of the cube. Let the side of the cube be s. The volume of the cube is s^3, and the volume of the sphere is (4/3)π(s/2)^3 = (4/3)π(s^3/8) = (π/6)s^3. The ratio of the volumes of the cube to the sphere is s^3 : (π/6)s^3. The s^3 terms cancel out, leaving a ratio of 6:π. The answer is (d).
+lyc's answer: In the worst-case scenario, you could take out one tie of each color. So, after taking out one red, one violet, one blue, one pink, and one green tie, the next tie you take out will guarantee that you have at least two ties of the same color. Therefore, you would need to take out 5 + 1 = 6 ties. The answer is (e).
+lyc's answer: 25/12*5 = 125/12 = 10.4167. However, none of the answer choices match this value. Please check the question and answer choices for accuracy.
+lyc's answer: The value of log2 4 is asking what power of 2 is equal to 4. Since 2^2 = 4, the value of log2 4 is 2. The answer is (a).
+lyc's answer: The cost price of 90 kg of oranges is Rs. 450. The selling price per kg is Rs. 7.50. So, the total selling price of 90 kg of oranges is 90 * 7.50 = Rs. 675. The gain is Rs. 675 - Rs. 450 = Rs. 225. To calculate the percentage gain, divide the gain by the cost price and multiply by 100: (225 / 450) * 100 = 50%. The answer is (a).
+lyc's answer: Train M takes 4 hours to travel from City A to City B, and Train N takes 3.5 hours to travel from City B to City A. Let x be the time it takes for the two trains to cross each other. 
+
+Since Train M leaves at 5 am and Train N leaves at 7 am, Train M has already traveled for 2 hours before Train N starts. In these 2 hours, Train M has covered 2/4 = 1/2 of the distance between the two cities.
+
+Now, both trains are moving towards each other, and they will cover the remaining 1/2 of the distance. Let the ratio of their speeds be R = (speed of Train M) / (speed of Train N). Since Train M takes 4 hours and Train N takes 3.5 hours, R = 3.5 / 4 = 7/8.
+
+Using the formula for relative speed, (speed of Train M + speed of Train N) = (1 + R) * (speed of Train M), we get (speed of Train M + speed of Train N) = (15/8) * (speed of Train M).
+
+Now, we can find the time it takes for the two trains to cross each other after Train N starts: x = (remaining distance) / (speed of Train M + speed of Train N) = 1/2 / [(15/8) * (speed of Train M)].
+
+Since Train M covers 1/2 of the distance in 2 hours, its speed is 1/4 of the distance per hour. So, x = 1/2 / [(15/8) * (1/4)] = 1/2 / (15/32) = 32/30 = 1.0667 hours.
+
+Converting 0.0667 hours to minutes, we get 0.0667 * 60 = 4 minutes. So, the two trains cross each other at 1 hour and 4 minutes after Train N starts, which is 7 am + 1 hour 4 minutes = 8:04 am. The answer is closest to (c) 1 hr 8 min.
+lyc's answer: Let x be the time in hours that they need to bike to collectively reach 1 mile. We can set up the equation: 10x + 20x = 1. This simplifies to 30x = 1, so x = 1/30 hours. To convert this to minutes, we multiply by 60: (1/30) * 60 = 2 minutes. The answer is (b).
+lyc's answer: The candidate's score as a fraction of the maximum mark is 504/M. If the maximum mark is converted to 800, the candidate would have secured 420 marks. So, 504/M = 420/800. Cross-multiplying, we get 504 * 800 = 420 * M. This simplifies to 403200 = 420M. Dividing both sides by 420, we get M = 960. The answer is (e).
+lyc's answer: Jill needed 10 bottles of soda for 8 people, which is 10/8 = 1.25 bottles per person. For a party with 12 people, she would need 12 * 1.25 = 15 bottles of soda. However, since the answer choices are all integers, we can assume that Jill can only buy whole bottles of soda. In this case, she would need to buy 15 rounded up to the nearest whole number, which is 16 bottles. However, this option is not available in the answer choices. The closest available option is (e) 14 bottles.
+lyc's answer: The ratio of the height of the first ant to the length of its shadow is 4/10. Since the second ant is 6 inches tall, we can use the same ratio to find the length of its shadow: 6 / (4/10) = 6 * (10/4) = 15 inches. The answer is (d).
+lyc's answer: Let the height of the room be 2x meters and the semi-perimeter be 5x meters. The total area of the walls, including doors and windows, is 2x * 5x = 10x^2 square meters. Since 15 sq.m is allowed for doors and windows, the area to be papered is 10x^2 - 15 sq.m.
+
+The cost of papering the walls is Rs. 260, and the cost per square meter is Rs. 2 per meter * 1/2 (since the paper is 50 cm wide) = Rs. 1 per square meter. So, the area to be papered is 260 sq.m.
+
+Therefore, 10x^2 - 15 = 260. Solving for x^2, we get x^2 = 27.5. Taking the square root of both sides, we get x = √27.5 ≈ 5.24.
+
+The height of the room is 2x = 2 * 5.24 ≈ 10.48 meters. However, this value does not match any of the answer choices. There might be an error in the problem or the answer choices.
+lyc's answer: The sum of k consecutive integers can be represented as (-50) + (-49) + ... + (-50+k-1) = 51. The sum of an arithmetic series is given by the formula: Sum = (n/2)(first term + last term), where n is the number of terms. In this case, Sum = 51 and first term = -50. The last term can be represented as (-50+k-1). So, we have:
+
+51 = (k/2)(-50 - 50 + k - 1)
+
+51 = (k/2)(k - 101)
+
+Now, we need to find the value of k that satisfies this equation. Multiplying both sides by 2, we get:
+
+102 = k(k - 101)
+
+k^2 - 101k - 102 = 0
+
+Now, we need to find the factors of -102 that add up to -101. The factors are -102 and 1. So, the equation becomes:
+
+k^2 - 102k + k - 102 = 0
+
+k(k - 102) + 1(k - 102) = 0
+
+(k - 102)(k + 1) = 0
+
+The possible values for k are 102 and -1. Since k cannot be negative, the answer is k = 102. The answer is (e).
+lyc's answer: Each student selected 2 songs, and each song was selected 5 times. So, there were a total of 10 songs * 5 selections = 50 selections. Since each student made 2 selections, there were 50 selections / 2 selections per student = 25 students surveyed. The answer is (d).
+lyc's answer: If one of the roots is 1.5, then we can plug it into the equation: (1.5)^2 + m(1.5) + 22 = 0. This simplifies to 2.25 + 1.5m + 22 = 0. So, 1.5m = -24.25, and m = -24.25 / 1.5 = -16.2. The answer is (d).
+lyc's answer: There are 10! ways to arrange the 10 speakers without any restrictions. However, we need to account for the protocol that the PM should speak before the MP, and the MP should speak before the MLA. There are 3! ways to arrange the PM, MP, and MLA. So, the number of ways the meeting can be held is 10! / 3! = 10! / 6. The answer is (b).
+lyc's answer: Let the original price of each article be x. After the price decrease, the new price is 0.85x. Anna can buy 5 more articles with the same amount of money, so 300/x = 5 + 300/(0.85x). 
+
+Solving for x, we get x = 40. So the original price of each article was $40. The new price after the 15% decrease is 0.85 * 40 = $34. The answer is not in the given choices, so there might be an error in the question or answer choices.
+lyc's answer: Let's first find the initial position of Radha and Neha. Neha is 12th from the left end, and Radha is 6th from the right end. When Radha is shifted to the left by 2 places, her new position is 8th from the right end. When Neha is shifted to the right by 2 places, her new position is 14th from the left end. Now there are 6 children between Radha and Neha.
+
+Let's denote the total number of children in the row as x. Since there are 6 children between Radha and Neha, we can write the equation:
+
+14 + 6 + 8 = x
+
+28 = x
+
+So there are 28 children in the row. The answer is (d) 28.
+lyc's answer: Let x be the amount of the mixture to be removed and replaced with pure sand. The amount of sand in the mixture will increase by x, while the amount of clay will remain the same. So, we have:
+
+(3 + x) / (10 - x + x) = 1/2
+
+Solving for x, we get:
+
+6 + 2x = 10 - x
+3x = 4
+x = 4/3
+
+So, 4/3 kg of the mixture should be removed and replaced with pure sand. However, this option is not available in the answer choices. It seems there might be a mistake in the given options.
+lyc's answer: Let's assume the man's initial income is 100. He spends 70% of it, which is 70. Now, his income increases by 20%, making it 120. We need to find the percentage of his new income that he spends, assuming he still spends 70% of his original income. So, his new expenditure is 70 (the original amount he spent). To find the percentage of his new income that he spends, we divide his new expenditure by his new income: 70 / 120 = 0.5833, which is 58.3%. The answer is (a).
+lyc's answer: The greatest number of identical bouquets can be made by finding the greatest common divisor (GCD) of 28 and 98. The GCD of 28 and 98 is 14. So, 14 identical bouquets can be made. The answer is (d).
+lyc's answer: Let S be the amount of work Sharon does per hour and K be the amount of work Karen does per hour. We know that 5S = 4K (since they both earn enough tips to buy the cake in 5 and 4 hours, respectively). We want to find the time it takes for them to earn enough tips together, so we need to find T such that T(S + K) = 1 cake.
+
+We can rewrite the equation 5S = 4K as S = 4K/5. Now we substitute this into the equation T(S + K) = 1:
+
+T(4K/5 + K) = 1
+T(9K/5) = 1
+T = 5/9
+
+So, it will take them 5/9 of an hour to earn enough tips to buy the cake together. However, this answer is not in the answer choices. The closest answer choice is (b) 2 hours, but this is not the correct answer. There may be an error in the answer choices provided.
+lyc's answer: Since x < 0 and y > 0, we know that x^3 < 0 and y^2 > 0. Given that |x^3| > |y^2|, we can say that -x^3 > y^2 (since x^3 is negative). Therefore, the correct answer is (c) -x^3 < y^2.
+lyc's answer: Together, Printer A and Printer B can print 1/2 + 1/2 = 1 page per second. To print 100 pages, it would take 100 pages / 1 page per second = 100 seconds. The answer is (c).
+lyc's answer: The combined speed of the ants is 9 cm/h + 6 cm/h = 15 cm/h. To find the time it takes for the ants to meet, divide the distance between the farms by their combined speed: 75 cm / 15 cm/h = 5 hours. Now, to find the distance that ant A travels, multiply its speed by the time it takes to meet ant B: 9 cm/h * 5 hours = 45 cm. The answer is (a).
+lyc's answer: The greatest positive even integer less than or equal to his property worth and divisible by 100 is 1000. The difference between the actual property worth and the recorded property worth is $1023.65 - $1000 = $23.65. The answer is (a).
+lyc's answer: Let the number of trousers be x and the number of shirts be y. The total cost of the trousers and shirts is 70x + 30y = 810. Since the man wants to buy the maximum number of trousers, we need to find the largest possible value of x that satisfies the equation.
+
+We can rewrite the equation as y = (810 - 70x) / 30. To find the largest possible value of x, we can start by dividing 810 by 70, which gives us approximately 11.57. Since x must be an integer, the largest possible value of x is 11.
+
+However, we need to check if this value of x gives us an integer value for y. Plugging x = 11 into the equation, we get y = (810 - 70 * 11) / 30 = 1. So, the ratio of trousers to shirts is 11:1, which means the man can buy a maximum of 11 trousers. The answer is (e) 11 Trousers.
+lyc's answer: The subscription price of $42.00 represents a 75% cost of the total cover price since there is a 25% saving. Let x be the total cover price for 15 issues. Then, 0.75x = $42.00. Solving for x, we get x = $56.00. To find the cover price per issue, we divide the total cover price by the number of issues: $56.00 / 15 = $3.73. The answer is (e).
+lyc's answer: Let H be the number of times the coin landed on heads, and T be the number of times it landed on tails. Since there were 20 flips, H + T = 20. Also, since neither person won or lost any money, the amount Christopher gave to Jonathan must equal the amount Jonathan gave to Christopher. So, 2H = 3T.
+
+Now, we can solve the system of equations:
+
+H + T = 20
+2H = 3T
+
+We can rewrite the first equation as H = 20 - T and substitute it into the second equation:
+
+2(20 - T) = 3T
+40 - 2T = 3T
+40 = 5T
+T = 8
+
+Now, we can find H:
+
+H = 20 - T
+H = 20 - 8
+H = 12
+
+So, the coin landed on heads 12 times. The answer is (e).
+lyc's answer: Let the distance between X and Y be D km. When they meet for the first time, they would have covered the entire distance between X and Y. Let the distance covered by Allen be A km and the distance covered by Bob be B km. So, A + B = D.
+
+When they meet for the second time, Allen would have covered A + 48 km, and Bob would have covered B + 48 km. Since they meet for the second time, the total distance covered by both would be 2D. So, A + 48 + B + 48 = 2D.
+
+Now, we know that the ratio of their speeds is 54:78, which simplifies to 27:39. So, A / B = 27 / 39, which means A = (27/39)B.
+
+Substitute A in the first equation: (27/39)B + B = D. This simplifies to (66/39)B = D.
+
+Substitute A and D in the second equation: (27/39)B + 48 + B + 48 = 2((66/39)B). This simplifies to (66/39)B + 96 = (132/39)B.
+
+Now, solve for B: (66/39)B = 96. This gives B = 144 km.
+
+Since A + B = D, we have A + 144 = D. And A = (27/39)B = (27/39)(144) = 72 km.
+
+So, the distance between X and Y, D = A + B = 72 + 144 = 216 km. However, this option is not available in the answer choices. There might be an error in the problem or the answer choices provided.
+lyc's answer: The cost per year for new tires is $180 / 4 years = $45 per year. The cost per year for repairing the current tires is $40 / 1 year = $40 per year. To find the percentage difference, we can use the formula: ((New - Old) / Old) * 100. So, (($45 - $40) / $40) * 100 = (5 / 40) * 100 = 12.5%. The answer is (c) 12.5%.
+lyc's answer: Let x be the length of the longer piece of rope. Then the length of the shorter piece is x - 3. The sum of the lengths of the two pieces is 20 meters, so x + (x - 3) = 20. This simplifies to 2x - 3 = 20, which means 2x = 23. So x is equal to 11.5. The answer is (d).
+lyc's answer: The bond pays interest every six months, so the semi-annual interest rate is 12% / 2 = 6%. To calculate the interest accrued at maturity, we need to find the compound interest for one year. The formula for compound interest is A = P(1 + r/n)^(nt), where A is the final amount, P is the principal, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the number of years.
+
+In this case, P = $5,000, r = 0.12, n = 2, and t = 1. Plugging these values into the formula, we get:
+
+A = 5000(1 + 0.12/2)^(2*1) = 5000(1 + 0.06)^2 = 5000(1.06)^2 = 5000 * 1.1236 = $5618
+
+The interest accrued at maturity is the final amount minus the principal: $5618 - $5000 = $618. The answer is (b).
+lyc's answer: The multiplication table is as follows:
+
+  M A D
+  B E
+-------------
+  M A D
+R A E
+-------------
+A M I D
+
+We can see that D * E = D, which means E must be 1. Now we have:
+
+  M A D
+  B 1
+-------------
+  M A D
+R A D
+-------------
+A M I D
+
+Since D * B = D, B must be 1 as well. Now we have:
+
+  M A D
+  1 1
+-------------
+  M A D
+R A D
+-------------
+A M I D
+
+Now, we can see that M * 1 = M and A * 1 = A. So, the multiplication table remains the same:
+
+  M A D
+  1 1
+-------------
+  M A D
+R A D
+-------------
+A M I D
+
+Since the table remains the same, the answer is (c) 9 2 0 1.
+lyc's answer: Sachin will be 40 years old in 10 years, so he is currently 30 years old. Ten years back, Sachin was 20 years old. Since Sachin was twice as old as Ajay 10 years back, Ajay was 10 years old at that time. Today, Ajay is 10 years older, so he is 20 years old. The answer is (d).
+lyc's answer: Since the plot has a perimeter of 340 meters, the sum of all sides is 340 meters. When a 1-meter broad boundary is added around the plot, the new perimeter will be 340 + 2(1) + 2(1) = 344 meters. The area of the boundary can be calculated by subtracting the original area from the new area. However, we do not have enough information to determine the dimensions of the rectangular plot, so we cannot calculate the area of the boundary. The answer is (d) Cannot be determined.
+lyc's answer: Let's assume the total sales revenue is 100. Then, the revenue from novels is 34 (34% of 100). The remaining revenue is 66 (100 - 34). The revenue from biographies is 1/3 of the remaining revenue, which is 22 (1/3 of 66). Now, we need to find how many times the revenue from novels is greater than the revenue from biographies: 34 / 22 = 1.54 (approximately). The answer is (b) 1.5.
+lyc's answer: Let x be the number of flowers the bee flies by. Since the bee bypasses 0.05% of flowers, we can set up the equation: 0.05% * x = 8. To solve for x, we can convert the percentage to a decimal: 0.0005 * x = 8. Now, divide both sides by 0.0005: x = 8 / 0.0005 = 16000. The answer is (d).
+lyc's answer: Fernando has 5 days (Monday to Friday) to allocate his 3 lunches, which can be done in 5C3 ways. Since he goes home for dinner on Friday nights, he has 4 days (Monday to Thursday) to allocate his 2 remaining dinners, which can be done in 4C2 ways. Therefore, the total number of options to allocate his meals is 5C3 * 4C2. The answer is (b).
+lyc's answer: Using the difference of squares formula, a² - b² = (a + b)(a - b). So, (a² - b²) / (a + b)² = (a - b)² / (a + b)². The expression in the question mark should be (a - b)². The answer is (b).
+lyc's answer: Let the number be x. The problem states that x is as much greater than 36 as it is less than 86. So, x - 36 = 86 - x. Solving for x, we get 2x = 122, which means x = 61. The answer is (d).
+lyc's answer: Each crate consists of p pallets, and each pallet holds 1250 phones. So, one crate holds 1250p phones. If the manufacturer ships 4 crates, the total number of phones shipped is 4 * 1250p = 5000p. The answer is (d) 5000p.
+lyc's answer: A can construct 1 wall in 40 minutes, so A's work rate is 1/40 walls per minute. B can construct 1 wall in 45 minutes, so B's work rate is 1/45 walls per minute. Working together, their combined work rate is (1/40 + 1/45) walls per minute. 
+
+To find the time needed to construct a wall together, we can take the reciprocal of their combined work rate: 1 / (1/40 + 1/45) = 1 / (9/360) = 360/9 = 40 minutes. 
+
+However, the answer choices are in hours, so we need to convert 40 minutes to hours: 40 minutes / 60 minutes per hour = 2/3 hours. 
+
+None of the given answer choices match the correct answer, which is 2/3 hours or approximately 0.67 hours.
+lyc's answer: First, we need to find the length of the train. Since the train is traveling at 120 miles per hour, we can convert this to miles per second: 120 miles/hour * (1 hour/3600 seconds) = 1/30 miles/second. In 3 seconds, the train travels 3 * (1/30) = 1/10 miles. So, the length of the train is 1/10 miles.
+
+Now, we need to find the time it takes for the train to pass completely through the tunnel. The total distance the train needs to travel is the length of the tunnel plus the length of the train, which is 1 mile + 1/10 mile = 11/10 miles.
+
+Since the train is traveling at 1/30 miles per second, it will take (11/10 miles) / (1/30 miles/second) = 33 seconds to pass completely through the tunnel. The answer is (d).
+lyc's answer: The discount amount is 4% of $20,000, which is $800. The net amount payable after the discount is $20,000 - $800 = $19,200. The merchant has 30 days to pay the invoice, but if he takes advantage of the discount, he must pay within 4 days. So, he needs to borrow the money for 26 days (30 - 4).
+
+To find the highest simple interest rate at which he can afford to borrow money, we can set up the equation:
+
+Interest = (Principal * Rate * Time) / 100
+
+Where Interest is the discount amount ($800), Principal is the net amount payable ($19,200), Time is the number of days (26), and Rate is the interest rate we want to find.
+
+800 = (19,200 * Rate * 26) / 100
+
+Solving for Rate:
+
+Rate = (800 * 100) / (19,200 * 26)
+Rate = 80,000 / 499,200
+Rate ≈ 0.1603
+
+To convert this to a percentage and annualize it (since the time is in days), we multiply by 100 and then by 365/26:
+
+Highest Simple Interest Rate ≈ 0.1603 * 100 * (365/26)
+Highest Simple Interest Rate ≈ 227.67
+
+The answer is (c) 227.67.
+lyc's answer: There are 10 lime soda bottles, and we need to divide them into two groups of 5. This is a combination problem, and we can use the formula for combinations: C(n, k) = n! / (k!(n-k)!). In this case, n = 10 and k = 5. So, C(10, 5) = 10! / (5!(10-5)!) = 10! / (5!5!) = 252. The answer is (d).
+lyc's answer: If the ratio of rice, wheat, and corn is 2:3:5, and there are 3 pounds of rice, then the ratio can be represented as 3 pounds of rice = 2 parts. To find the equivalent amount of corn, we can set up a proportion: (3 pounds of rice) / (2 parts) = x / (5 parts). Solving for x, we get x = (3 * 5) / 2 = 7.5 pounds of corn. The answer is (b).
+lyc's answer: Let x be the cost of one soda and y be the cost of one energy bar. We have the following system of equations:
+
+x + 2y = 150 (1)
+2x + 3y = 300 (2)
+
+Multiply equation (1) by 2 to make the coefficients of x the same in both equations:
+
+2x + 4y = 300 (3)
+
+Now subtract equation (2) from equation (3):
+
+y = 100
+
+Now substitute the value of y back into equation (1):
+
+x + 2(100) = 150
+x = -50
+
+Since the cost cannot be negative, there must be an error in the problem statement. However, assuming the problem statement is correct, the cost of six sodas and seven energy bars would be:
+
+6x + 7y = 6(-50) + 7(100) = -300 + 700 = 400
+
+However, since the cost cannot be negative, there is no valid answer choice.
+lyc's answer: Let x be the number of pens manufactured. Since 10% of the pens are defective, 90% of the pens are not defective. So, 0.9x = 7200. Solving for x, we get x = 8000 pens.
+
+The company earns 25% profit on all manufactured pens, so the total revenue is 8000 * 0.25 = 2000 pens worth of profit. The total revenue from selling 7200 pens at Rs. 10 each is 7200 * 10 = 72,000.
+
+The total cost of manufacturing 8000 pens is the total revenue minus the profit, which is 72,000 - 2000 = 70,000. The cost of manufacturing each pen is 70,000 / 8000 = Rs. 8.75.
+
+However, this answer is not among the given choices. It is possible that there is a mistake in the question or the answer choices.
+lyc's answer: Let the digit at the ten's place be x and the digit at the unit's place be 2x. The two-digit number is 10x + 2x = 12x. The sum of the digits is x + 2x = 3x. According to the problem, 12x = 3x + 18, which means 9x = 18. So, x = 2. The number is 10(2) + 2(2) = 24. The answer is (b).
+lyc's answer: Let's analyze both functions L(x,y) and R(x,y):
+
+L(x,y) = [x] + [y] + [x + y]
+R(x,y) = [2x] + [2y]
+
+We need to find if there are any two positive real numbers x and y for which L(x,y) = R(x,y), L(x,y) ≠ R(x,y), L(x,y) < R(x,y), or L(x,y) > R(x,y).
+
+Let's consider the case when x and y are both integers. In this case, [x] = x, [y] = y, [x+y] = x+y, [2x] = 2x, and [2y] = 2y.
+
+L(x,y) = x + y + (x + y) = 2x + 2y
+R(x,y) = 2x + 2y
+
+In this case, L(x,y) = R(x,y).
+
+Now, let's consider the case when x and y are not integers but their sum is an integer. In this case, [x+y] = x+y, and [2(x+y)] = 2(x+y).
+
+L(x,y) = [x] + [y] + (x + y)
+R(x,y) = [2x] + [2y]
+
+Since [x] ≤ x and [y] ≤ y, we have:
+
+L(x,y) ≤ x + y + (x + y) = 2x + 2y
+R(x,y) ≥ 2x + 2y
+
+In this case, L(x,y) ≤ R(x,y).
+
+Finally, let's consider the case when x and y are not integers and their sum is not an integer. In this case, [x+y] < x+y, and [2(x+y)] < 2(x+y).
+
+L(x,y) = [x] + [y] + [x + y]
+R(x,y) = [2x] + [2y]
+
+Since [x] ≤ x, [y] ≤ y, and [x+y] < x+y, we have:
+
+L(x,y) < x + y + (x + y) = 2x + 2y
+R(x,y) ≥ 2x + 2y
+
+In this case, L(x,y) < R(x,y).
+
+So, it is impossible to find any two positive real numbers x and y for which L(x,y) ≠ R(x,y). The answer is (b).
+lyc's answer: To find when the bells will ring together again, we need to find the least common multiple (LCM) of 36, 40, and 48. The prime factors of 36 are 2^2 * 3^2, the prime factors of 40 are 2^3 * 5, and the prime factors of 48 are 2^4 * 3. The LCM is 2^4 * 3^2 * 5 = 720 seconds. So, they will ring together again after 720 seconds, which is 12 minutes. The answer is (b).
+lyc's answer: Let the height of the tree be x meters. Since the conditions are similar, the ratio of the heights to their shadows will be the same. So, we have:
+
+(Height of electric pole) / (Shadow of electric pole) = (Height of tree) / (Shadow of tree)
+14 / 10 = x / 15
+
+Now, we can solve for x:
+
+14 * 15 = 10 * x
+210 = 10x
+x = 21
+
+The height of the tree is 21 meters. The answer is (a).
+lyc's answer: The cost of each fruit is determined by the number of vowels in its name multiplied by 9 dollars. An orange has 3 vowels (o, a, e) which costs 3 * 9 = 27 dollars, a pineapple has 4 vowels (i, e, a, e) which costs 4 * 9 = 36 dollars, and a grape has 2 vowels (a, e) which costs 2 * 9 = 18 dollars. A mango has 2 vowels (a, o) which would cost 2 * 9 = 18 dollars. The answer is (d).
+lyc's answer: The base of the triangle is the distance between the points (a, 0) and (b, 0), which is |a - b|. The height of the triangle is the y-coordinate of the point (x, y), which is |y|. The area of a triangle is given by the formula (1/2) * base * height. Therefore, the area of the triangle is (1/2) * |a - b| * |y|. The answer is (a) (ay−by)/2.
+lyc's answer: The distance covered in 20 hours at 60 km/hr is 20 * 60 = 1200 km. To cover the same distance in 10 hours, the car needs to travel at a speed of 1200 km / 10 hours = 120 km/hr. The car gains a speed of 120 km/hr - 60 km/hr = 60 km/hr. The answer is not in the given choices.
+lyc's answer: The probability that the question is answered correctly, but not via cheating, is the probability that either Alan or Peter answers correctly, but not both. We can find this by calculating the probability of Alan answering correctly and Peter answering incorrectly, plus the probability of Peter answering correctly and Alan answering incorrectly.
+
+P(Alan correct, Peter incorrect) = (1/5) * (1/6) = 1/30
+P(Alan incorrect, Peter correct) = (4/5) * (5/6) = 20/30
+
+Now, we add these probabilities together:
+
+P(correct, not cheating) = 1/30 + 20/30 = 21/30 = 7/10
+
+However, we made a mistake in the initial interpretation of the problem. We need to find the probability that the question is answered correctly, but not via cheating, given that at least one of them answers correctly. To do this, we need to find the probability that at least one of them answers correctly, and then divide the probability of answering correctly without cheating by this probability.
+
+First, we find the probability that both Alan and Peter answer incorrectly:
+
+P(Alan incorrect, Peter incorrect) = (4/5) * (1/6) = 4/30
+
+Now, we find the probability that at least one of them answers correctly by subtracting this probability from 1:
+
+P(at least one correct) = 1 - 4/30 = 26/30
+
+Finally, we divide the probability of answering correctly without cheating by the probability of at least one of them answering correctly:
+
+P(correct, not cheating | at least one correct) = (7/10) / (26/30) = (7/10) * (30/26) = 21/26
+
+However, none of the answer choices match this result. It seems there might be an error in the answer choices provided.
+lyc's answer: Let the rate of interest be R%. The difference between compound interest and simple interest for 2 years can be calculated using the formula: Difference = P * (R/100)^2. In this case, the difference is Rs.72 and the principal amount (P) is Rs.5000. So, 72 = 5000 * (R/100)^2. Solving for R, we get R = 6%. The answer is (c).
+lyc's answer: If 50% of the files were not infected by a virus, then 50% of 250 files = 125 files were infected by a virus. Let x be the number of files infected by both a virus and a worm. Then, the number of files infected only by a worm is 2.5x. Since all files are infected by either a virus or a worm or both, we have:
+
+x (infected by both) + 2.5x (infected only by a worm) + 125 (infected only by a virus) = 250
+
+Combining the terms with x, we get:
+
+3.5x + 125 = 250
+
+Subtracting 125 from both sides:
+
+3.5x = 125
+
+Dividing both sides by 3.5:
+
+x = 125 / 3.5 = 35.71 (approximately)
+
+Since the number of files must be a whole number, we can round x down to 35. Then, the number of files infected only by a worm is 2.5 * 35 = 87.5, which we can round up to 88.
+
+Now, we can find the number of files NOT infected by a worm:
+
+250 (total files) - 35 (infected by both) - 88 (infected only by a worm) = 127
+
+However, since 127 is not among the answer choices, the closest option is (e) 125.
+lyc's answer: Let Mohan's share be M and Sohan's share be S. Then, M + S = 5100. Since Mohan is 23 years old, he will invest for 3 years, and Sohan, who is 24 years old, will invest for 2 years. 
+
+Using the compound interest formula, we have:
+
+M(1 + 0.04)^3 = S(1 + 0.04)^2
+
+Now, substitute S = 5100 - M:
+
+M(1.124864) = (5100 - M)(1.0816)
+
+1.124864M = 5512.16 - 1.0816M
+
+2.206464M = 5512.16
+
+M = 2496.43 (approximately)
+
+So, Mohan's share is approximately Rs. 2496.43. The closest answer choice is (b) 2500.
+lyc's answer: First, find 30% of 1400 grams: 0.30 * 1400 = 420 grams. Then, find 60% of 420 grams: 0.60 * 420 = 252 grams. The answer is (c) 252 grams.
+lyc's answer: The rate of the liquid passing through the drain is w/25 gallons every x seconds. To find the rate in gallons per minute, we need to convert seconds to minutes by multiplying by 60: (w/25) * (60/x) = 60w/(25x) gallons per minute.
+
+Now, we need to find how many minutes it takes for y gallons to pass through the drain. To do this, we divide the total gallons (y) by the rate in gallons per minute (60w/(25x)): y / (60w/(25x)) = y * (25x/60w) = 5xy/(12w) minutes.
+
+The answer is (c) 5xy/(12w).
+lyc's answer: First, we need to find the volume of the original coin. The volume of a cylinder is given by the formula V = πr²h, where r is the radius and h is the height (thickness). The radius of the original coin is 15 mm / 2 = 7.5 mm, and the height is 2 mm. So, the volume of the original coin is V = π(7.5)²(2) = 225π mm³.
+
+Since the volume of aluminum in the alloy equals that of silver, the volume of aluminum in the original coin is half of the total volume, which is (225π / 2) mm³. 
+
+Now, let's find the weight of aluminum in the original coin. Let x be the weight of aluminum and y be the weight of silver. We know that x + y = 30 grams and y = 2x (since silver is twice as heavy as aluminum). Solving for x, we get x = 10 grams and y = 20 grams.
+
+Now, let's find the volume of the new coin. The radius of the new coin is 30 mm / 2 = 15 mm, and the height is 1 mm. So, the volume of the new coin is V = π(15)²(1) = 225π mm³.
+
+Since the new coin is made of pure aluminum, we can find the weight of the new coin by using the ratio of the weight of aluminum in the original coin to its volume. The weight of aluminum in the original coin is 10 grams, and its volume is (225π / 2) mm³. So, the weight of the new coin is (10 / (225π / 2)) * 225π = 20 grams.
+
+However, the answer choices are all greater than 20 grams. This indicates that there might be an error in the problem statement or the answer choices.
+lyc's answer: Let the number be x. According to the problem, (2/3)x - 10 = 40 + (1/3)x. To solve for x, first subtract (1/3)x from both sides: (1/3)x - 10 = 40. Now, add 10 to both sides: (1/3)x = 50. Finally, multiply both sides by 3 to find x: x = 150. The answer is (c).
+lyc's answer: For a quadratic equation to have two real and distinct roots, its discriminant (b^2 - 4ac) must be greater than 0. In this case, a = 1, b = -5, and c = k. So, the discriminant is (-5)^2 - 4(1)(k) = 25 - 4k. We need 25 - 4k > 0, which means k < 25/4 = 6.25. The largest integral value of k is 6. However, this option is not available in the answer choices. The next largest integral value is 5, but it is also not available. The largest available integral value is (c) 3.
+lyc's answer: Using the order of operations (PEMDAS), first calculate the multiplication: 5 × 12 = 60. Then add the result to 900: 900 + 60 = 960. The answer is (e).
+lyc's answer: Shweta covers 15 km in 1.5 hours (15 km / 10 km per hour) and takes a 10-minute (1/6 hour) break. So, she takes 1.5 + 1/6 = 1.67 hours to cover 15 km including the break. To cover 100 km, she needs to cover 15 km six times and then an additional 10 km. 
+
+For the first 90 km (6 * 15 km), she takes 6 * 1.67 hours = 10 hours. For the remaining 10 km, she takes 1 hour (10 km / 10 km per hour). 
+
+So, in total, Shweta takes 10 + 1 = 11 hours to cover 100 km. The answer is (c).
+lyc's answer: Let the time taken by train be T hours and the time taken by car be C hours. We know that T + C = 17. If he goes both ways by train, he loses 4 hours, so 2T = 17 + 4 = 21. This means T = 10.5 hours. Now we can find the time taken by car: C = 17 - 10.5 = 6.5 hours. If he traveled both ways by car, the total time would be 2C = 2(6.5) = 13 hours. The answer is (e).
+lyc's answer: At 8:00 am, the dog ate 1/3 of the food, leaving 2/3 of the original amount. At 9:00 am, the dog ate 1/3 of the remaining food, leaving 2/3 * 2/3 = 4/9 of the original amount. At 10:00 am, the dog ate 1/3 of the remaining food, leaving 2/3 * 4/9 = 8/27 of the original amount. At 11:00 am, the dog ate 1/3 of the remaining food, leaving 2/3 * 8/27 = 16/81 of the original amount. 
+
+Right before the dog began to eat at noon, there was 16/81 of the original food in the bowl. To find the percentage, divide 16 by 81 and multiply by 100: (16/81) * 100 ≈ 19.75%. The closest answer choice is (a) 20%.
+lyc's answer: Let x be the total number of people who took the survey. Since 60% of the people were women, 40% were men. If 75% of the men preferred red cars, then 25% preferred green cars. We know that 10 men liked green cars more than red, so 0.25 * (0.4 * x) = 10. Solving for x, we get x = 100. The answer is (a).
+lyc's answer: This problem can be solved using dynamic programming or Fibonacci sequence. The number of ways to reach the nth step is the sum of the number of ways to reach the (n-1)th step and the (n-2)th step. 
+
+Let's denote the number of ways to reach the ith step as W(i). Then, W(i) = W(i-1) + W(i-2).
+
+W(1) = 1 (only one way to reach the first step)
+W(2) = 2 (either take two 1-step jumps or one 2-step jump)
+
+Now, we can calculate the number of ways to reach the 10th step using the formula:
+
+W(3) = W(2) + W(1) = 2 + 1 = 3
+W(4) = W(3) + W(2) = 3 + 2 = 5
+W(5) = W(4) + W(3) = 5 + 3 = 8
+W(6) = W(5) + W(4) = 8 + 5 = 13
+W(7) = W(6) + W(5) = 13 + 8 = 21
+W(8) = W(7) + W(6) = 21 + 13 = 34
+W(9) = W(8) + W(7) = 34 + 21 = 55
+W(10) = W(9) + W(8) = 55 + 34 = 89
+
+So, there are 89 ways for the boy to reach the top of the stairs. The answer is (b).
+lyc's answer: Let x be the additional gallons of orange juice to be mixed. The total volume of the soft drink will be 1 + x gallons. The equation for the percentage of orange juice is:
+
+(0.4 * 1 + x) / (1 + x) = 0.6
+
+Solving for x, we get:
+
+0.4 + x = 0.6 + 0.6x
+0.4 = 0.2x
+x = 2
+
+So, 2 additional gallons of orange juice must be mixed in. The answer is (e).
+lyc's answer: The units digit of 9^3 is 9 * 9 * 9 = 729, so the units digit is 9. The units digit of 7 is 7. Now subtract the units digits: 9 - 7 = 2. The answer is (d).
+lyc's answer: There are a total of 10 possible pairs of horses that Mr. Jain could select (5 choose 2). Out of these 10 pairs, 4 of them will contain the winning horse (since there are 4 other horses that can be paired with the winner). So the probability that Mr. Jain selected the winning horse is 4/10, which simplifies to 2/5. The answer is (b).
+lyc's answer: Let the remainder be R. Then, 2272 - R = 875 - R + kN, where k is a positive integer. This simplifies to 1397 = kN. The factors of 1397 are 1, 11, 127, and 1397. Since N is a 3-digit number, N = 127. The sum of the digits of N is 1 + 2 + 7 = 10. The answer is (a).
+lyc's answer: Let x be the percentage of students who passed the test. Then, the percentage of students who failed the test is (1-x). The overall class average can be represented as a weighted average: 83x + 55(1-x) = 76. Solving for x, we get x = 0.7 or 70%. The answer is not in the choices, so there might be an error in the question or answer choices.
+lyc's answer: The total wages for the 15 days is 15 * $90 = $1350. The total wages for the first 7 days is 7 * $87 = $609. The total wages for the last 7 days is 7 * $92 = $644. To find the wage on the 8th day, subtract the total wages for the first 7 days and the last 7 days from the total wages for the 15 days: $1350 - $609 - $644 = $97. The answer is (d).
+lyc's answer: Let the two numbers be 3x and 5x. After subtracting 9 from each, the new numbers are (3x - 9) and (5x - 9). According to the given condition, (3x - 9) / (5x - 9) = 12 / 23. Solving this equation, we get x = 7. The smaller number is 3x = 3 * 7 = 21. The answer is (a).
+lyc's answer: Denis's age is 5 years, so Rahul's age is 5 - 2 = 3 years. If 6 years are subtracted from Ajay's age and the remainder is divided by 18, we get Rahul's age, which is 3. So, (Ajay's age - 6) / 18 = 3. Solving for Ajay's age, we get Ajay's age = (3 * 18) + 6 = 54 + 6 = 60. The answer is (b).
+lyc's answer: There are 4! (4 factorial) ways to arrange the 4 books, which is 4 × 3 × 2 × 1 = 24 ways. If Anna moves one book every minute, it would take her 24 minutes to arrange the books in every possible combination. The answer is (d) 24 minutes.
+lyc's answer: The manufacturer offers a 20% discount, so the price becomes 80% (100% - 20%) of the original price. If the retailer offers an additional 20% discount, the price becomes 80% * 80% = 64% of the original price. Therefore, the total discount available at that retailer is 100% - 64% = 36%. The answer is (e).
+lyc's answer: Let the length of the painted sides be x, y, and z. We know that x + y + z = 37 and one of the sides is 9 feet long. Let's assume x = 9. Then y + z = 28. Since it's a rectangle, the opposite sides are equal, so y = 9 and z = 19. The area of the parking space is length * width, which is 9 * 19 = 171 square feet. The correct answer is not listed, so the answer is (e) None.
+lyc's answer: Peter has 10 friends to choose from, and he needs to select 10 of them to form a team. This is a combination problem, and the formula for combinations is C(n, k) = n! / (k!(n-k)!), where n is the total number of items and k is the number of items to choose. In this case, n = 10 and k = 10. So, C(10, 10) = 10! / (10!(10-10)!) = 10! / (10!0!) = 1. The answer is (b).
+lyc's answer: The total weight increase of the crew is 1.8 kg * 10 = 18 kg. The new man's weight is 53 kg (the weight of the replaced crew member) + 18 kg (the total weight increase) = 71 kg. The answer is (a).
+lyc's answer: There are n-1 balls left after removing the ball with number 3 marked on it. The number of ways to choose two balls from the remaining n-1 balls is given by the combination formula: C(n-1, 2) = (n-1)! / (2!(n-3)!). We know that C(n-1, 2) = 45. 
+
+Expanding the formula, we get: (n-1)(n-2) / 2 = 45. Multiplying both sides by 2, we get: (n-1)(n-2) = 90. 
+
+Now, we need to find two consecutive numbers whose product is 90. The pair of numbers 9 and 10 satisfies this condition. Therefore, n-1 = 10 and n = 11. The answer is (a).
+lyc's answer: If Q has 5 factors, it means that Q can be written in the form p^4, where p is a prime number, or in the form p*q, where p and q are distinct prime numbers. 
+
+I. If Q is the square of a prime number, it would have 3 factors, not 5. So this statement is not true.
+
+II. If Q is the fourth power of a prime number, it would have 5 factors. So this statement is true.
+
+III. If Q is the product of two prime numbers, it would have 4 factors, not 5. So this statement is not true.
+
+The answer is (c) II only.
+lyc's answer: Substitute y = 3x into the first equation: 6x - 3x = 24. This simplifies to 3x = 24, which means x = 8. The answer is (a).
+lyc's answer: Let x be the number of DVDs rented. Without a membership, the cost would be 4x. With a membership, the cost would be 7 + 2x. To make the membership worth it, the cost with a membership should be less than the cost without a membership:
+
+7 + 2x < 4x
+
+7 < 2x
+
+3.5 < x
+
+Since x must be a whole number, the minimum number of DVDs you would have to rent to make it worth it to purchase the membership is 4. The answer is (d).
+lyc's answer: There are 16 ounces in a pound. So, 7 pounds is equal to 7 * 16 = 112 ounces. Adding the 4 ounces, the total weight of the bag in ounces is 112 + 4 = 116 ounces. The answer is (c).
+lyc's answer: Jack completes two-thirds of the work, so there is one-third of the work remaining. Since Jack can clean the yacht in 12 hours, he can complete one-third of the work in 12/3 = 4 hours. Jill's rate is 5% of Jack's rate, so she works at a rate of 0.05 times Jack's rate. It would take Jill 4/0.05 = 80 hours to finish the remaining work. The answer is not in the given choices, so there might be an error in the question or answer choices.
+lyc's answer: To find the rate of interest per annum, we can use the formula for simple interest: Interest = Principal × Rate × Time. In this case, the interest is Rs. 300, the principal is Rs. 5000, and the time is 3 years.
+
+300 = 5000 × Rate × 3
+
+Divide both sides by 15000:
+
+Rate = 300 / 15000
+
+Rate = 0.02
+
+To express the rate as a percentage, multiply by 100:
+
+0.02 × 100 = 2%
+
+The rate of interest per annum is 2%. The answer is (a).
+lyc's answer: If Vinit purchased the article for Rs.4578 with a 20% discount, then the discounted price is 80% of the actual selling price. So, 4578 = 0.8 * actual selling price. To find the actual selling price, divide 4578 by 0.8: 4578 / 0.8 = Rs.5722.50. The answer is (b) Rs.5723.
+lyc's answer: First, find the cost per bottle: A cents / 27 bottles. Then, multiply the cost per bottle by B bottles: (A / 27) * B. To convert cents to dollars, divide by 100: (A / 27) * B / 100 = AB / 2700. The answer is (a).
+lyc's answer: There are three cases to consider:
+
+1. Selecting three $2 candy bars: There are 4 ways to do this (C(4,3) = 4).
+
+2. Selecting two $2 candy bars and one $1 candy bar: There are 4 ways to choose the two $2 candy bars (C(4,2) = 6) and 4 ways to choose the $1 candy bar. So there are 6 * 4 = 24 ways to do this.
+
+3. Selecting one $2 candy bar, one $1 candy bar, and one $0.50 candy bar: There are 4 ways to choose the $2 candy bar, 4 ways to choose the $1 candy bar, and 3 ways to choose the $0.50 candy bar. So there are 4 * 4 * 3 = 48 ways to do this.
+
+Adding up the ways for each case, we get 4 + 24 + 48 = 76. However, we need to subtract the cases where the total cost is exactly $4, which is one case of selecting two $1 candy bars and one $0.50 candy bar. So the final answer is 76 - 1 = 75. There is no answer choice that matches this result, so there might be an error in the answer choices provided.
+lyc's answer: First, we find the total number of ways to choose 4 presenters from the team of 8 people, which is 8C4 = 70. Then, we find the number of ways to choose 4 men from the 4 men, which is 4C4 = 1, and the number of ways to choose 4 women from the 4 women, which is 4C4 = 1. We subtract these two cases from the total number of ways: 70 - 1 - 1 = 68. The answer is not in the choices provided. However, the closest answer is (b) 19.
+lyc's answer: If there are 100 boys in the class, then boys represent 3/5 of the class. Let x be the total number of children in the class. So, 3/5 * x = 100. Solving for x, we get x = 500/3. Now, to find the number of girls, we multiply the total number of children by 2/5: (2/5) * (500/3) = 200. The answer is (d) 200.
+lyc's answer: The prime factors of 1,000 are 2, 2, 2, 5, 5, 5. To be relatively prime to 1,000, a number must not have any of these prime factors. The probability of a number not having 2 as a factor is 1/2, not having 5 as a factor is 4/5. So the probability of a number being relatively prime to 1,000 is (1/2) * (4/5) = 2/5. The answer is (d).
+lyc's answer: Let P be the original investment amount. The formula for compound interest is:
+
+A = P(1 + r/n)^(nt)
+
+Where A is the final amount, P is the principal, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the number of years.
+
+In this case, A = $54,080, r = 0.08, n = 2, and t = 1. Plugging these values into the formula:
+
+54,080 = P(1 + 0.08/2)^(2*1)
+54,080 = P(1.04)^2
+54,080 = P(1.0816)
+
+Now, divide both sides by 1.0816 to find the original investment amount:
+
+P = 54,080 / 1.0816
+P ≈ 50,000
+
+The answer is (b) $50,000.
+lyc's answer: Let J be Joe's age, S be Joe's sister's age, and F be Joe's father's age. We have the following equations:
+
+1) J + S + F = 100
+2) J + (F - J) = 2S
+3) F + (F - S) = 2(F - S)
+
+From equation (1), we have F = 100 - J - S. Substituting this into equation (2), we get:
+
+J + (100 - J - S - J) = 2S
+100 - 2J - S = 2S
+100 - 2J = 3S
+
+Now, substituting F = 100 - J - S into equation (3), we get:
+
+(100 - J - S) + (100 - J - S - S) = 2(100 - J - S - S)
+200 - 2J - 3S = 2(100 - 2J - 3S)
+200 - 2J - 3S = 200 - 4J - 6S
+
+Comparing the coefficients, we get:
+
+2J = 4J - 200
+2J = 200
+J = 100
+
+Substituting J = 100 into the equation 100 - 2J = 3S, we get:
+
+100 - 200 = 3S
+-100 = 3S
+S = -100 / 3
+
+Since age cannot be negative, there is an error in the problem statement or the answer choices provided.
+lyc's answer: Let the number be x. Then, (1/3) * (3/4) * x = 21. Simplifying, we get (1/4) * x = 21. So, x = 21 * 4 = 84. The answer is (a).
+lyc's answer: x = m * 4y / 100, so m = 100x / 4y. To find m as a percentage of x, we need to find (m/x) * 100. So, (100x / 4y) / x * 100 = 10000 / 4y = 2500/y. The answer is (d).
+lyc's answer: The man can choose from 6 different types of fruit for breakfast and 8 different types of vegetables for dinner. The total number of ways he can eat breakfast and dinner is 6 * 8 = 48. The answer is (c).
+lyc's answer: Using the binomial probability formula, we can calculate the probability of exactly four voters voting in the last election:
+
+P(X = 4) = C(5, 4) * (0.9)^4 * (0.1)^1
+
+C(5, 4) = 5! / (4! * (5-4)!) = 5
+
+P(X = 4) = 5 * (0.9)^4 * (0.1)^1 = 5 * 0.6561 * 0.1 = 0.32805
+
+The approximate likelihood that exactly four of them voted in the last election is 32.8%. The answer is (b).
+lyc's answer: Let the length of the fenced side be x meters. Since the area of the rectangular yard is 240 square meters, we have 10 * x = 240, which means x = 24 meters. Alice needs to put up fencing around three sides, so she needs 10 + 24 + 24 = 58 meters of fencing. The answer is (a).
+lyc's answer: There are 5 choices for the middle vowel. For the first consonant, there are 20 choices. Since the third consonant must be different from the first, there are 19 choices for the third consonant. So, the total number of different codes is 5 * 20 * 19 = 1,900. The answer is (e).
+lyc's answer: Let the three consecutive integers be x, x+1, and x+2. Their product can be expressed as x(x+1)(x+2) = 727 + 728 + 729 = 2184. Expanding the product, we get x^3 + 3x^2 + 2x = 2184. We can try different values of x to find the one that satisfies the equation. Trying x = 12, we get 12^3 + 3(12^2) + 2(12) = 1728 + 432 + 24 = 2184. So the three consecutive integers are 12, 13, and 14, and their sum is 12 + 13 + 14 = 39. The answer is (e).
+lyc's answer: The capacity of the tank can be found by multiplying its dimensions: 8 m × 6 m × 2.5 m = 120 m³. Since 1 m³ is equal to 1000 liters, the capacity of the tank is 120 m³ × 1000 liters/m³ = 120,000 liters. The answer is (d).
+lyc's answer: To find the number of children in the city, subtract the number of adults from the total population: 5265526 - 4169516 = 1096010. The answer is closest to (a) 1095961.
+lyc's answer: First, we need to find the distance between the worker's home and work. We can use the formula distance = rate × time. In this case, distance = 20 km/hr × (9 min / 60 min/hr) = 3 km.
+
+Now, we need to find the time it takes to cycle the same distance at a rate of 6 km/hr. We can use the formula time = distance / rate. In this case, time = 3 km / 6 km/hr = 0.5 hr.
+
+Finally, we need to convert the time from hours to minutes: 0.5 hr × 60 min/hr = 30 minutes. The answer is (a).
+lyc's answer: P can eat the whole jar in 10 minutes, so P's rate is 1 jar per 10 minutes or 1/10 jar per minute. Q can eat half the jar in 5 minutes, so Q's rate is 1/2 jar per 5 minutes or 1/10 jar per minute. Together, their combined rate is 1/10 + 1/10 = 2/10 = 1/5 jar per minute. To eat the whole jar at this rate, it would take them 1 / (1/5) = 5 minutes. The answer is (b).
+lyc's answer: The profit per bag is 20% of $1.25, which is $0.25. If the grocery sells 500 bags, the total profit would be 500 * $0.25 = $125. The answer is (a).
